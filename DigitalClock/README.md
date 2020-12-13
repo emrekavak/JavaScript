@@ -1,2 +1,2 @@
-Example of DigitalClock
+Example of DigitalClock<br>
 ![](example.png)

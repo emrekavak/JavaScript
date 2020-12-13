@@ -1,2 +1,3 @@
 # JavaScript
-Applications of what I have learned
+I applied DigitalClock JavaScript web application. App show on the web page.
+
